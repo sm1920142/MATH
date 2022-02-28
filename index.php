@@ -6,7 +6,7 @@
 <body background="WEBPAGE DESKTOP4.png">
 <br>
 <p align="right">
-<a href="SJS-LS PT.html"><button>Home</button></a>
+<a href="https://pt-home.herokuapp.com/"><button>Home</button></a>
 &nbsp;
 &nbsp;
 &nbsp;
